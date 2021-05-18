@@ -11,6 +11,10 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 [![Travis](https://travis-ci.org/ethereum/go-ethereum.svg?branch=master)](https://travis-ci.org/ethereum/go-ethereum)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
 
+<p align="center">
+  <img src="go-ethereum-lang.jpg" alt="demo" />
+</p> 
+
 ## Optimism
 
 The same codebase is used to run both the Sequencer and the Verifier. Runtime
